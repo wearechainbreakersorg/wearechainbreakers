@@ -171,7 +171,7 @@
 <!-- CONTACT -->
 <div class="container section" id="contact">
   <h2>Contact Us</h2>
-  <p>Email: wearechainbreakersorg@gmail.com</p>
+  <p>Email: info@chainbreakers.org</p>
   <p>Phone: 980-781-9366</p>
   <p>Website: WeAreChainBreakers.org</p>
 </div>
